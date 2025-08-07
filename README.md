@@ -88,13 +88,6 @@ All routes accept and return JSON unless specified otherwise.
 
 ---
 
-## 📁 Extras
-
-- Postman collection: `docs/todo-api-collection.json`
-- API screenshots: `docs/`
-
----
-
 ## 🛠 Built With
 
 - Node.js
